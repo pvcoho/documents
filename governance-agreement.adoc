@@ -26,7 +26,7 @@ The governance system will be guided by the following principles adapted from Dy
 . The Principle of Consent Decisions by Circles are made by consent, including selection of people for circle membership roles, except as required by law and/or as otherwise stated in the bylaws.
   .. Meetings and decision making will proceed as outlined in the Consent and Meeting Process SummaryGuide (see appendix).
   .. Consent, a form of consensus, is defined as having no “argued and/or paramount objections.”
-    ... A paramount objection reflects a concern that the proposal would have a negativehave negative effect on the Circle’s work to serve its purpose. Posed another way, paramount objections need to be based on the purpose and responsibilities of a circle and not on personal preferences. For example, one community goal is to have meals available for everyone twice a week. While some may have a personal preference for having all vegetarian meals, they would not have a paramount objection to meals that include meat unless there was no vegetarian option. To welcome everyone to community meals, we might object to a meal policy that never included meat or a meal policy that did not require a vegetarian option when a meat oriented meal was served.
+    ... A paramount objection reflects a concern that the proposal would have a negative effect on the Circle’s work to serve its purpose. Posed another way, paramount objections need to be based on the purpose and responsibilities of a circle and not on personal preferences. For example, one community goal is to have meals available for everyone twice a week. While some may have a personal preference for having all vegetarian meals, they would not have a paramount objection to meals that include meat unless there was no vegetarian option. To welcome everyone to community meals, we might object to a meal policy that never included meat or a meal policy that did not require a vegetarian option when a meat oriented meal was served.
     ... An argued objection means that the reasons for the objection are explained clearly enough for the Circle to collectively take responsibility for possible resolutions. For example, the Kitchen Circle is deciding a proposal to have tables of 8 instead of tables of 6. To say “I object because I like tables of 6 better” does not give the Circle a way to explore resolution. To say “I object because I find it easier to have more intimate and connected conversation in tables of 6” clarifies the underlying need and all can join in exploring strategies to meet that need.
   .. Failure to Reach Consent: If after all options have been exhausted, a Circle cannot achieve consent on a proposal, the decision is referred to the next broader circle (for example from B&G Work Circle to General Circle or General Circle to Full Circle).
 . The Principle of Continual Adaptation All policy decisions will be in effect for a defined period of time, and be evaluated at or before the end of that period of time. The policy will then be terminated, continued or revised, as appropriate, based on that evaluation.
@@ -76,7 +76,12 @@ Meetings may be called between and among these entities as relevant, i.e. Kitche
 
 ## General Framework of All Circles
 
-Membership Core members of a circle are individualsthose who carry out the responsibilities of that circle and who regularly attend meetings as set by the circle.* Affiliated Task Individuals There are other individuals who carry out tasks related to a particular Circle but are not core members of that circle. They are part of their relevant Expanded Work Circle.* Meeting Frequency Circles determine their own meeting frequency.* Purpose (Aim) To meet community needs by providing community services within their area of responsibility in ways that are effective, efficient and transparent.* Area of Responsibility (Domain) Is composed of the Ppolicies, operations, and budget of this Circle. Each establishes or confirms the purpose, area of responsibility and leadership selection of sub-circles. They call for Community Conversations and conduct other information gathering as needed to inform decisions that need greater input.* Evaluation (Measure) Minutes produced and posted for community access. Evaluation at conclusion of each meeting. Annual self-evaluation and by broader Circle. Periodic evaluations of specific projects according to their purposes (for example: are we achieving our intention of having 2 meals a week?).
+* Membership Core members of a circle are individuals who carry out the responsibilities of that circle and who regularly attend meetings as set by the circle.
+* Affiliated Task Individuals There are other individuals who carry out tasks related to a particular Circle but are not core members of that circle. They are part of their relevant Expanded Work Circle.
+* Meeting Frequency Circles determine their own meeting frequency.
+* Purpose (Aim) To meet community needs by providing community services within their area of responsibility in ways that are effective, efficient and transparent.
+* Area of Responsibility (Domain) Is composed of the Ppolicies, operations, and budget of this Circle. Each establishes or confirms the purpose, area of responsibility and leadership selection of sub-circles. They call for Community Conversations and conduct other information gathering as needed to inform decisions that need greater input.
+* Evaluation (Measure) Minutes produced and posted for community access. Evaluation at conclusion of each meeting. Annual self-evaluation and by broader Circle. Periodic evaluations of specific projects according to their purposes (for example: are we achieving our intention of having 2 meals a week?).
 
 ### Criteria for Circle Membership
 
@@ -147,9 +152,13 @@ How we will evaluate this Governance Agreement.
 
 * Frequency of Circle Meetings
 * Attendance of Circle Members
-* Record of Circle Meetings (Minutes)* Availability of Minutes to all community members
+* Record of Circle Meetings (Minutes)
+* Availability of Minutes to all community members
 * Summary of policy decisions that have been made in the period
 * Survey of Satisfaction with those decisions
 * Summary of objections that arose and how they were processed
 * Evaluations in each Circle and in the Full Circle (General Meeting) - what went well, what could have been improved, suggestions for improvement
-* Effectiveness: are decisions getting made, is the community functioning as well or better than before?* Efficiency:is the speed with which decisions & actions are taken appropriate to the decisions or actions?* Transparency is there easy community access to information about the decisions made by the Circle?* Consent decision in a Full Circle: Are there objections to continuing the experiment?
+* Effectiveness: are decisions getting made, is the community functioning as well or better than before?
+* Efficiency: is the speed with which decisions & actions are taken appropriate to the decisions or actions?
+* Transparency is there easy community access to information about the decisions made by the Circle?
+* Consent decision in a Full Circle: Are there objections to continuing the experiment?
