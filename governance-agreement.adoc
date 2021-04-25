@@ -1,4 +1,4 @@
-# GOVERNANCE revised 2/17/2013
+# GOVERNANCE
 
 Our governance structure, like any other, will evolve as it is implemented and ideally adapts to fit the personality and culture where it is being applied. Previous structures that we’ve employed have likewise sought innovations and improvements and we hope and expect this one will too. This governance structure strives to address the following goals:
 
@@ -16,7 +16,7 @@ Our governance structure, like any other, will evolve as it is implemented and i
 
 ## Overview
 
-The organizational governance structure of Pioneer Valley Cohousing will employ interlinking Circles. A Circle is a group of people with a specific purpose (also called an aim) who work together to accomplish that purpose, including making operations and policy decisions by consent within their specific area of responsibility (also called a domain). Term: For a period of 18 months, with systematic community evaluation to begin no later than the 12th month. At the end of the 18th month this governance agreement will terminate unless the Full Circle agrees by consent to continue. If this agreement is terminated, then the governance structure and process will revert to the previous agreements about governance.
+The organizational governance structure of Pioneer Valley Cohousing will employ interlinking Circles. A Circle is a group of people with a specific purpose (also called an aim) who work together to accomplish that purpose, including making operations and policy decisions by consent within their specific area of responsibility (also called a domain).
 
 ## Governance Principles
 
@@ -35,11 +35,11 @@ The governance system will be guided by the following principles adapted from Dy
 
 The organizational structure of PVCC Governance is based on a series of interlinked Circles— illustrated below in this “flower petal” image. The circles are described in a table in the Appendix titled “General Attributes of Circles and Sub-Circles.”
 
-. Full Circle Comprised of all community members and associate members. 
-. General Circle Comprised of the leaders and delegates of the four main Work Circles. 
-. Work Circles B&G (Buildings & Grounds),Member Services, Common House, PALS (Plants, Animals, Land Stewards) 
-. Work Sub-Circles Circles focused on a particular part of a Main Work Circle’s area of responsibility. For example, the Kitchen Circle is a Sub-Circle of the Common House Circle. 
-. Expanded Work Circles A Work Circle plus its sub-circles as well as task-specific individuals. 
+. Full Circle Comprised of all community members and associate members.
+. General Circle Comprised of the leaders and delegates of the four main Work Circles.
+. Work Circles B&G (Buildings & Grounds),Member Services, Common House, PALS (Plants, Animals, Land Stewards)
+. Work Sub-Circles Circles focused on a particular part of a Main Work Circle’s area of responsibility. For example, the Kitchen Circle is a Sub-Circle of the Common House Circle.
+. Expanded Work Circles A Work Circle plus its sub-circles as well as task-specific individuals.
 . Helping Circles Helping Circles research and recommend actions or policies to the Circle that created it. It can also carry out specific, short- term work assignments. For example, a Retreat Planning Circle would be a Helping Circle to the General Circle.
 
 ## Community Gatherings
@@ -56,13 +56,13 @@ All residents and Associates are members of the Full Circle. Full Circle meeting
 
 **MAJOR DECISIONS** These decisions are the responsibility of the Full Circle:
 
-. Significant and permanent changes to the physical community; 
-. Significant change to the governance structure; 
-. Significant impact on members in terms of money, housing, and/or liability; 
-. Changes to Master Deed and its amendments, Bylaws and its amendments, and agreements with the Town of Amherst; 
-. Annual budget decisions and any mid-term revisions that increase the budget by more than 10%; 
-. Decisions where the General Circle cannot achieve consent; and 
-. Decisions of the General Circle that have been appealed by three or more individuals, no two from the same household. 
+. Significant and permanent changes to the physical community;
+. Significant change to the governance structure;
+. Significant impact on members in terms of money, housing, and/or liability;
+. Changes to Master Deed and its amendments, Bylaws and its amendments, and agreements with the Town of Amherst;
+. Annual budget decisions and any mid-term revisions that increase the budget by more than 10%;
+. Decisions where the General Circle cannot achieve consent; and
+. Decisions of the General Circle that have been appealed by three or more individuals, no two from the same household.
 
 _Note:_ non-property owners may not object to budget decisions.
 
@@ -82,16 +82,16 @@ Membership Core members of a circle are individualsthose who carry out the respo
 
 To ensure well-run productive Circles, every Circle will have a defined membership of individuals who agree to follow these best practices:
 
-* attend Circle meetings regularly 
+* attend Circle meetings regularly
 * inform the Circle Secretary if you will be absent
-* carry out the Circle’s work in between meetings 
-* make an effort to resolve interpersonal conflicts that occur within the Circle upon request of the Circle 
+* carry out the Circle’s work in between meetings
+* make an effort to resolve interpersonal conflicts that occur within the Circle upon request of the Circle
 
-Each Circle can set additional criteria as long as they are clear and transparent and relevant to the Circle’s area of responsibility. 
+Each Circle can set additional criteria as long as they are clear and transparent and relevant to the Circle’s area of responsibility.
 
-The intention of the circle is to be inclusive and welcoming, balanced with the responsibility to respect and commit to the circle's forward progress. Therefore, new members may be asked to “get up to speed” by talking or working with a member between meetings so as not to slow down the work of the circle. 
+The intention of the circle is to be inclusive and welcoming, balanced with the responsibility to respect and commit to the circle's forward progress. Therefore, new members may be asked to “get up to speed” by talking or working with a member between meetings so as not to slow down the work of the circle.
 
-No one may be denied membership in a Circle or asked to leave a Circle on the basis of personal preferences. 
+No one may be denied membership in a Circle or asked to leave a Circle on the basis of personal preferences.
 
 If a member is having difficulty meeting the criteria, the Circle may initiate a respectful and open-minded conversation to understand what is going on for the member. If the member is not able to meet the Circle’s agreements, s/he may be asked to resign from Circle membership.
 
@@ -135,9 +135,9 @@ A question comes to a Circle -- it may decide the question, research it, survey 
 
 Any individual may appeal any decision made by any Circle. That appeal will first be heard by the Circle(s) to which the individual belongs. If that Circle agrees with the appeal, they will send selected delegates to the Circle which made the decision. These delegates will temporarily join the Circle that made the original decision for the purpose of confirming, rejecting or amending the decision in question.
 
-Alternatively, three individuals, no two from the same house, can appeal any decision to the circle that made the decision. To facilitate a timely response and avoid holding up a decision, the following process is recommended:  
+Alternatively, three individuals, no two from the same house, can appeal any decision to the circle that made the decision. To facilitate a timely response and avoid holding up a decision, the following process is recommended:
 
-Those appealing will go to the circle that made the decision, in order to confirm or amend that decision (in one session); if not successful in that session, those with concerns along with circle delegates seek assistance from Care and Counsel to get resolution (within two sessions). 
+Those appealing will go to the circle that made the decision, in order to confirm or amend that decision (in one session); if not successful in that session, those with concerns along with circle delegates seek assistance from Care and Counsel to get resolution (within two sessions).
 
 If that is not successful, it moves to the next broader circle.
 
@@ -153,76 +153,3 @@ How we will evaluate this Governance Agreement.
 * Summary of objections that arose and how they were processed
 * Evaluations in each Circle and in the Full Circle (General Meeting) - what went well, what could have been improved, suggestions for improvement
 * Effectiveness: are decisions getting made, is the community functioning as well or better than before?* Efficiency:is the speed with which decisions & actions are taken appropriate to the decisions or actions?* Transparency is there easy community access to information about the decisions made by the Circle?* Consent decision in a Full Circle: Are there objections to continuing the experiment?
-
-## Proposal for Implementation
-
-Implementation Assistance The Governance Group will become the DG Implementation Circle, an ad hoc helping circle of the General Circle. Amendment approved at February 10 GM: The Implementation Helping Circle will be a defined size (6-8), with a selection process based on criteria for what the job would be, with the whole community involved in the decision on membership.1
-
-Its purpose is to support the implementation of the proposal. Its areas of responsibility are a) training with all Circles until such time as the General Circle is working effectively and can take on serving the other Circles, b) education of the full community and c) creating and/or improving support systems (documentation, facilitation, evaluation, etc.).
-
-Process for Selecting Work Circle Representatives Each of the four Work Circles will have a meeting open to all community members. The agenda will be to a) state the purpose & area of responsibility of the Circle, b) identify who is willing to serve as core Circle members, c) review the roles of leader and delegate, d) identify the qualities desired in each, e) select leader and delegate from among the core members, f) and set a next meeting time.
-
-All community members in attendance will be invited to nominate and give input on candidates; final decision will be made by those members who are part of the Expanded Work Circle. For example, the Expanded Common House Work Circle includes individuals who have regular work responsibility related to the Common House – kitchen committee, clean teams, meals bookkeeping, guest room calendar, etc. After the selection process, if needed, a debrief will be offered which allows members to hear from each other and, if requested, to help a member or members find support for other ways of contributing or building skill in preparation for future leadership opportunities.
-
-Initial Meeting of Work Circles Each Circle will select a secretary and a facilitator or facilitation system. The secretary does not need to be the note keeper for each meeting but is responsible for maintaining circle communication and documentation, including meeting minutes.
-
-Affirming Circle Representatives Once the leaders and delegates of the four Work Circles have been identified, there will be a meeting of the Full Circle (General Meeting) which will a) confirm the composition of the General Circle, and b) present a relevant skills building training session (see list below). Work Circles will then set and/or confirm the structure of their sub-circles and their purposes, areas of responsibility, and membership.
-
-## Responsibilities of the Governance Implementation Circle
-* Support ongoing education in all aspects of PVC Governance as needed;
-* Assist in creating systems for recording minutes and making them accessible to all through Internet tools such as Google Drive;
-* Serve, at the General Circle’s direction, to identify and organize additional needed training for Circles and/or for individual roles (facilitator, secretary, etc); and to recommend organizational design improvements;
-* Help organize other skill building activities to strengthen the community’s governance process, regardless of the form of governance employed. This could include: minute taking, documentation system, facilitation, evaluation, reflective listening, and nonviolent communication.
-
-_Criteria considered on the February 10th General Meeting includes: 2 hours / week available; knowledge of DG and this particular incarnation of it; High skill & tolerance for lots of meetings; energetic about PVC Governance; knowledgeable about community, plus newer community members; good listeners, empathy skills; able to discern the problem; good interpersonal skills; identify concerns, process them effectively; good teachers / trainers_
-
-## PROPOSAL APPENDIX
-
-. Consent and Meeting Process Summary Guide
-.. Consent Decision-Making Summary (Side A)
-.. Selection & Meeting Process Summary (Side B)
-. Organizational Structure (Flower Picture)
-.. Generic Circle Image
-.. Proposed Circles for PVC
-. General Attributes Circles and Sub-Circles (Table)
-
-## SUPPORTING DOCUMENT
-
-(Informational only; not part of proposal)
-
-### CHALLENGES OF CURRENT SYSTEM
-
-* It depends on the capacity of burning souls to bring a change process to conclusion before they burn out with the lack of a supportive organizational structure. For many, this dampens the motivation to propose improvements for our community.
-* When someone with a good idea is not the “appropriate” person to be the burning soul, the idea is unlikely to move forward
-* There is little connection among committees and between committees and the general meeting
-* We don’t have easy access to current information such as community agreements and committee minutes
-* We’ve developed a culture against making decisions - new ones take too much energy and old ones are hard to change and rarely evaluated
-* Knowing how hard it is to change our decisions means the stakes are very high when we make them
-* Leadership is voluntary rather than intentional
-* It is challenging to step forward to be a leader
-* No clear responsibility for what falls through the cracks
-* Since decision process is driven by individuals, issues get personalized
-* Examples of unresolved community items:
-
-Master planning (from years ago) - first attempt Master planning (currently in limbo) - recent attempt Governance Review of design review Outdoor cat policy Work accountability Carports Sumac Invasives management Meat animals Trees and solar gain Parking Keeping agreements Private use of community resources
-
-### PVC GOVERNANCE: RATIONALE
-
-* A new system can help shift old habits
-* several people have the energy and enthusiasm to try
-* Provides an organizational structure and framework to promote effectiveness, efficiency, transparency, inclusiveness, and equivalence of voice
-* Provides a framework for decision making and meeting process in many ways similar to what we do now, but with more standard process that is replicable in all meetings
-* Provides more leadership roles and more shared leadership by those who do the work of the community.
-* We won’t know if this is an improvement unless we try.
-
-Rationale for choosing Circle leaders using a selection process
-
-* identified leadership provides a clear focus of responsibility and accountability
-* the selection process invites people to step into leadership through appreciation of their skills and qualities. Volunteerism is about who wants or is willing to do the job. In selection the question is who do we want to invite to consider the job. Selection really broadens the pool of possible candidates.
-
-Rationale for Circle member responsibilities
-
-* identify a clear focus of responsibility and accountability
-* effective use of labor time (emphasis on doing)
-* it is in the doing of the work of the circle that individuals will acquire the experience necessary to make effective decisions
-* clarity and consistency of membership allows for greater connection, mutual support, learning, development, effectiveness and efficiency
