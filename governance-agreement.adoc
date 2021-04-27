@@ -34,19 +34,24 @@ In the structure of circles, a more focused circle is double-linked to the next 
 
 ### Full Circle
 
+Comprised of all community members and associate members.
+
 ### Coordinating Circle
+
+Comprised of the leaders and delegates of the four main Work Circles.
 
 ### Core Work Circles
 
-#### Buildings & Grounds (B&G)
-
-#### Community Life (CL),
-
-#### Common House (CH),
-
-#### Plants, Animals, Land Stewards (PALS)
+* Buildings & Grounds (B&G)
+* Community Life (CL),
+* Common House (CH),
+* Plants, Animals, Land Stewards (PALS)
 
 ### Subcircles and Helping Circles
+
+Subcircles are Circles that are focused on a particular part of a Main Work Circle’s area of responsibility. For example, the Kitchen Circle is a Sub-Circle of the Common House Circle.
+
+Helping Circles research and recommend actions or policies to the Circle that created it. It can also carry out specific, short-term work assignments. For example, a Retreat Planning Circle would be a Helping Circle to the General Circle.
 
 ## Circle Member Roles
 
