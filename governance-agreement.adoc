@@ -4,8 +4,9 @@
 :revnumber: 2
 :revdate: April 26th, 2021
 :numbered:
-:comments:
+:comments!:
 :obsolete!:
+:tip-caption: Example
 
 ## Overview
 
@@ -32,7 +33,7 @@ The governance system of our community aims to
 
 In the structure of Circles, a more focused circle is double-linked to the next broader circle by the <<Circle Leader>> and or more <<Delegates>> of the more focused circle.
 
-TIP: For example, the Common House Circle would affirm the purpose and responsibilities of the Kitchen Circle.
+TIP: The Common House Circle would affirm the purpose and responsibilities of the Kitchen Circle.
 
 ### Full Circle
 
@@ -63,25 +64,25 @@ Comprised of the leaders and delegates of the four main Work Circles.
 
 Subcircles are Circles that are focused on a particular part of a Main Work Circle’s area of responsibility.
 
-TIP: For example, the Kitchen Circle is a Sub-Circle of the Common House Circle.
+TIP: The Kitchen Circle is a Sub-Circle of the Common House Circle.
 
 Helping Circles research and recommend actions or policies to the Circle that created it. It can also carry out specific, short-term work assignments.
 
-TIP: For example, a Retreat Planning Circle would be a Helping Circle to the Coordinating Circle.
+TIP: A Retreat Planning Circle would be a Helping Circle to the Coordinating Circle.
 
 ### Expanded Work Circles
 
 Each Work Circle may have one or more Sub-Circles and/or Helping Circles, as well as individuals who do specific tasks but who is not a member of the Work Circle.
 
-TIP: For example, someone may be the bike room coordinator and connected to the Common House Circle but not participate in that Circle’s meetings.
+TIP: Someone may be the bike room coordinator and connected to the Common House Circle but not participate in that Circle’s meetings.
 
 All the associated groups and individuals connected to a Circle comprise its Expanded Work Circle.
 
-TIP: For example, the Common House Expanded Work Circle includes the Kitchen Committee, Cook Teams, Ad Hoc Library committee, Guest Room scheduler, etc.
+TIP: The Common House Expanded Work Circle includes the Kitchen Committee, Cook Teams, Ad Hoc Library committee, Guest Room scheduler, etc.
 
 Meetings may be called between and among these entities as relevant. The purpose, area of responsibility, and evaluation will be determined specifically for each meeting.
 
-TIP: For example, the Kitchen Committee and Cooks may meet; CH Committee may meet with all the basement coordinators to discuss new ideas for reorganizing that space, and so on.
+TIP: The Kitchen Committee and Cooks may meet; CH Committee may meet with all the basement coordinators to discuss new ideas for reorganizing that space, and so on.
 
 ## Circle Member Roles
 
@@ -166,7 +167,7 @@ All policy decisions will be in effect for a defined period of time, and be eval
 
 Minutes produced and posted for community access. Evaluation at conclusion of each meeting. Annual self-evaluation and by broader Circle. Periodic evaluations of specific projects according to their purposes.
 
-TIP: For example: are we achieving our intention of having 2 meals a week?.
+TIP: Are we achieving our intention of having 2 meals a week?.
 
 ### Ongoing Learning
 
@@ -188,17 +189,17 @@ Consent, a form of consensus, is defined as having no “argued and/or paramount
 
 A *paramount objection* reflects a concern that the proposal would have a negative effect on the Circle’s work to serve its purpose. Posed another way, paramount objections need to be based on the purpose and responsibilities of a circle and not on personal preferences.
 
-TIP: For example, one community goal is to have meals available for everyone twice a week. While some may have a personal preference for having all vegetarian meals, they would not have a paramount objection to meals that include meat unless there was no vegetarian option. To welcome everyone to community meals, we might object to a meal policy that never included meat or a meal policy that did not require a vegetarian option when a meat oriented meal was served.
+TIP: One community goal is to have meals available for everyone twice a week. While some may have a personal preference for having all vegetarian meals, they would not have a paramount objection to meals that include meat unless there was no vegetarian option. To welcome everyone to community meals, we might object to a meal policy that never included meat or a meal policy that did not require a vegetarian option when a meat oriented meal was served.
 
 An *argued objection* means that the reasons for the objection are explained clearly enough for the Circle to collectively take responsibility for possible resolutions.
 
-TIP: For example, the Kitchen Circle is deciding a proposal to have tables of 8 instead of tables of 6. To say “I object because I like tables of 6 better” does not give the Circle a way to explore resolution. To say “I object because I find it easier to have more intimate and connected conversation in tables of 6” clarifies the underlying need and all can join in exploring strategies to meet that need.
+TIP: The Kitchen Circle is deciding a proposal to have tables of 8 instead of tables of 6. To say “I object because I like tables of 6 better” does not give the Circle a way to explore resolution. To say “I object because I find it easier to have more intimate and connected conversation in tables of 6” clarifies the underlying need and all can join in exploring strategies to meet that need.
 
 ### Failure to Reach Consent
 
 If after all options have been exhausted, a Circle cannot achieve consent on a proposal, the decision is referred to the next broader circle.
 
-TIP: For example, from B&G Work Circle to Coordinating Circle or Coordinating Circle to Full Circle.
+TIP: From B&G Work Circle to Coordinating Circle or Coordinating Circle to Full Circle.
 
 ### Appeal Process
 
