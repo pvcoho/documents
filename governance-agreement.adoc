@@ -5,19 +5,18 @@
 :numbered!:
 :comments:
 
-Our governance structure, like any other, will evolve as it is implemented and ideally adapts to fit the personality and culture where it is being applied. Previous structures that we’ve employed have likewise sought innovations and improvements and we hope and expect this one will too. This governance structure strives to address the following goals:
+## Aims of our Governance System
 
-* Clear, specific, delegation of responsibilities
-* Better coordination
-* Methods to shepherd significant concerns
-* Leadership development and increased participation in committees and work
-* Fostering the social fabric of our community
-* Promoting and providing for
-** Equal voice
-** Inclusivity
-** Communication
-** Mutual Support
-** Trust
+ifdef::comments[NOTE: This is a shortened version of the working copy.]
+
+The governance system of our community aims to
+
+* support broad participation by members in both governance and operational work,
+* foster a positive sense of community and connections among community members,
+* ensure that all voices matter,
+* distribute and decentralize decision-making authority and responsibilities as much as possible,
+* work with concerns during decision making in a constructive way,
+* develop leadership and consent-building skills of our members.
 
 ## Overview
 
