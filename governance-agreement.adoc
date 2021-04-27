@@ -53,6 +53,14 @@ Subcircles are Circles that are focused on a particular part of a Main Work Circ
 
 Helping Circles research and recommend actions or policies to the Circle that created it. It can also carry out specific, short-term work assignments. For example, a Retreat Planning Circle would be a Helping Circle to the General Circle.
 
+### Expanded Work Circles
+
+Each Work Circle may have one or more Sub-Circles and/or Helping Circles, as well as individuals who do specific tasks but who is not a member of the Work Circle (for example, someone may be the bike room coordinator and connected to the Common House Circle but not participate in that Circle’s meetings).
+
+All the associated groups and individuals connected to a Circle comprise its Expanded Work Circle. For example, the Common House Expanded Work Circle includes the Kitchen Committee, Cook Teams, Ad Hoc Library committee, Guest Room scheduler, etc.
+
+Meetings may be called between and among these entities as relevant, i.e. Kitchen Committee and Cooks may meet; CH Committee may meet with all the basement coordinators to discuss new ideas for reorganizing that space, and so on. The purpose, area of responsibility, and evaluation will be determined specifically for each meeting.
+
 ## Circle Member Roles
 
 With the exception of the Circle leader and the delegate(s) any member may fill more than one role, and roles may be combined.
