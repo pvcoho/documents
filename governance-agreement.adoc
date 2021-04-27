@@ -27,14 +27,23 @@ The organizational governance structure of Pioneer Valley Cohousing will employ 
 
 The governance system will be guided by the following principles adapted from Dynamic Governance.
 
-. The Principle of Circles PVCC will govern itself through semi-autonomous, self-organizing circles that are responsible for policy decisions within their area of responsibility. Each circle will be guided by input from community members using a variety of means such as Community Conversations, surveys, etc. Broader circles set and/or affirm the purpose and areas of responsibility for more focused circles. In the structure of circles, a more focused circle is double-linked to the next broader circle by the Circle leader and or more delegates of the more focused circle. For example, The Common House Circle would affirm the purpose and responsibilities of the Kitchen Circle. Circles determine their own membership. (See membership selection guidelines)
-. The Principle of Consent Decisions by Circles are made by consent, including selection of people for circle membership roles, except as required by law and/or as otherwise stated in the bylaws.
-  .. Meetings and decision making will proceed as outlined in the Consent and Meeting Process SummaryGuide (see appendix).
-  .. Consent, a form of consensus, is defined as having no “argued and/or paramount objections.”
-    ... A paramount objection reflects a concern that the proposal would have a negative effect on the Circle’s work to serve its purpose. Posed another way, paramount objections need to be based on the purpose and responsibilities of a circle and not on personal preferences. For example, one community goal is to have meals available for everyone twice a week. While some may have a personal preference for having all vegetarian meals, they would not have a paramount objection to meals that include meat unless there was no vegetarian option. To welcome everyone to community meals, we might object to a meal policy that never included meat or a meal policy that did not require a vegetarian option when a meat oriented meal was served.
-    ... An argued objection means that the reasons for the objection are explained clearly enough for the Circle to collectively take responsibility for possible resolutions. For example, the Kitchen Circle is deciding a proposal to have tables of 8 instead of tables of 6. To say “I object because I like tables of 6 better” does not give the Circle a way to explore resolution. To say “I object because I find it easier to have more intimate and connected conversation in tables of 6” clarifies the underlying need and all can join in exploring strategies to meet that need.
-  .. Failure to Reach Consent: If after all options have been exhausted, a Circle cannot achieve consent on a proposal, the decision is referred to the next broader circle (for example from B&G Work Circle to General Circle or General Circle to Full Circle).
-. The Principle of Continual Adaptation All policy decisions will be in effect for a defined period of time, and be evaluated at or before the end of that period of time. The policy will then be terminated, continued or revised, as appropriate, based on that evaluation.
+### The Principle of Circles
+
+PVCC will govern itself through semi-autonomous, self-organizing circles that are responsible for policy decisions within their area of responsibility. Each circle will be guided by input from community members using a variety of means such as Community Conversations, surveys, etc. Broader circles set and/or affirm the purpose and areas of responsibility for more focused circles. In the structure of circles, a more focused circle is double-linked to the next broader circle by the Circle leader and or more delegates of the more focused circle. For example, The Common House Circle would affirm the purpose and responsibilities of the Kitchen Circle. Circles determine their own membership. (See membership selection guidelines)
+
+### The Principle of Consent
+
+Decisions by Circles are made by consent, including selection of people for circle membership roles, except as required by law and/or as otherwise stated in the bylaws.
+
+. Meetings and decision making will proceed as outlined in the Consent and Meeting Process SummaryGuide (see appendix).
+. Consent, a form of consensus, is defined as having no “argued and/or paramount objections.”
+  .. A paramount objection reflects a concern that the proposal would have a negative effect on the Circle’s work to serve its purpose. Posed another way, paramount objections need to be based on the purpose and responsibilities of a circle and not on personal preferences. For example, one community goal is to have meals available for everyone twice a week. While some may have a personal preference for having all vegetarian meals, they would not have a paramount objection to meals that include meat unless there was no vegetarian option. To welcome everyone to community meals, we might object to a meal policy that never included meat or a meal policy that did not require a vegetarian option when a meat oriented meal was served.
+  .. An argued objection means that the reasons for the objection are explained clearly enough for the Circle to collectively take responsibility for possible resolutions. For example, the Kitchen Circle is deciding a proposal to have tables of 8 instead of tables of 6. To say “I object because I like tables of 6 better” does not give the Circle a way to explore resolution. To say “I object because I find it easier to have more intimate and connected conversation in tables of 6” clarifies the underlying need and all can join in exploring strategies to meet that need.
+. Failure to Reach Consent: If after all options have been exhausted, a Circle cannot achieve consent on a proposal, the decision is referred to the next broader circle (for example from B&G Work Circle to General Circle or General Circle to Full Circle).
+
+### The Principle of Continual Adaptation
+
+All policy decisions will be in effect for a defined period of time, and be evaluated at or before the end of that period of time. The policy will then be terminated, continued or revised, as appropriate, based on that evaluation.
 
 
 ## Circle Member Roles
