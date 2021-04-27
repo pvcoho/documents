@@ -37,7 +37,7 @@ The governance system will be guided by the following principles adapted from Dy
 . The Principle of Continual Adaptation All policy decisions will be in effect for a defined period of time, and be evaluated at or before the end of that period of time. The policy will then be terminated, continued or revised, as appropriate, based on that evaluation.
 
 
-### Circle Member Roles
+## Circle Member Roles
 
 Circle Leader:: The Circle leader is selected by their Circle and confirmed by the next broader circle. Their role is to oversee operations of their Circle. The Circle leader is a member of both their Circle and the next broader Circle. The leader may make time-sensitive decisions without being authorized to do so by their Circle; those decisions must be reviewed at the next Circle meeting.
 
@@ -105,7 +105,7 @@ Purpose (Aim):: To meet community needs by providing community services within t
 Area of Responsibility (Domain):: Is composed of the policies, operations, and budget of this Circle. Each establishes or confirms the purpose, area of responsibility and leadership selection of sub-circles. They call for Community Conversations and conduct other information gathering as needed to inform decisions that need greater input.
 Evaluation (Measure):: Minutes produced and posted for community access. Evaluation at conclusion of each meeting. Annual self-evaluation and by broader Circle. Periodic evaluations of specific projects according to their purposes (for example: are we achieving our intention of having 2 meals a week?).
 
-### Criteria for Circle Membership
+## Criteria for Circle Membership
 
 To ensure well-run productive Circles, every Circle will have a defined membership of individuals who agree to follow these best practices:
 
@@ -132,17 +132,17 @@ Each circle will create and maintain a logbook accessible to the full community 
 
 Each Circle is responsible for the ongoing learning of its members in three areas: communication/interpersonal relationships, governance structure/meeting and work processes and work content (as in finances in a Finance Committee and equipment repair in Buildings & Grounds). The General Circle is responsible for community-wide skill building and education.
 
-### Everyone has a Voice
+## Everyone has a Voice
 
 How Individuals influence Decisions made by a Circle (see diagram of Feedback Loops)
 
 *Both-And* The aim is to both maintain the integrity of Circles to make decisions within their area of responsibility and have appropriate community input on those decisions.
 
-#### Input Process
+### Input Process
 
 A question comes to a Circle -- it may decide the question, research it, survey community members, or send the question to another Circle for input or decision. A Circle may appoint a Helping Circle to research the question and make a recommendation. For example, the Egg Chicken Club can appoint an ad hoc “Expansion Committee” to research the issue and come back to the Club with a recommendation. A Circle can ask for time in a Community Conversation to generate more input. These Community Conversations will be held monthly (or more or less as needed) with dates predetermined annually. In addition, any individual can give input to any Circle member. Any individual can request to be heard by any Circle that they are not a member of. All Circle meeting minutes will be publicly available.
 
-#### Appeal Process
+### Appeal Process
 
 Any individual may appeal any decision made by any Circle. That appeal will first be heard by the Circle(s) to which the individual belongs. If that Circle agrees with the appeal, they will send selected delegates to the Circle which made the decision. These delegates will temporarily join the Circle that made the original decision for the purpose of confirming, rejecting or amending the decision in question.
 
