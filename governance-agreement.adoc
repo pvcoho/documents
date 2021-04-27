@@ -112,7 +112,7 @@ Meetings may be called between and among these entities as relevant, i.e. Kitche
 
 ## General Framework of All Circles
 
-Membership:: Core members of a circle are individuals who carry out the responsibilities of that circle and who regularly attend meetings as set by the circle.
+Membership:: Core members of a circle are those who carry out the responsibilities of that circle and who regularly attend meetings as set by the circle.
 
 Affiliated Task Individuals:: There are other individuals who carry out tasks related to a particular Circle but are not core members of that circle. They are part of their relevant Expanded Work Circle.
 
@@ -120,7 +120,7 @@ Meeting Frequency:: Circles determine their own meeting frequency.
 
 Purpose (Aim):: To meet community needs by providing community services within their area of responsibility in ways that are effective, efficient and transparent.
 
-Area of Responsibility (Domain):: Is composed of the policies, operations, and budget of this Circle. Each establishes or confirms the purpose, area of responsibility and leadership selection of sub-circles. They call for Community Conversations and conduct other information gathering as needed to inform decisions that need greater input.
+Area of Responsibility (Domain):: Policies, operations, and budget of this Circle. Each establishes or confirms the purpose, area of responsibility and leadership selection of sub-circles. They call for Community Conversations and conduct other information gathering as needed to inform decisions that need greater input.
 
 Evaluation (Measure):: Minutes produced and posted for community access. Evaluation at conclusion of each meeting. Annual self-evaluation and by broader Circle. Periodic evaluations of specific projects according to their purposes (for example: are we achieving our intention of having 2 meals a week?).
 
