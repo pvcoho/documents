@@ -1,4 +1,9 @@
 # GOVERNANCE
+:toc:
+:revnumber: 2
+:revdate: April 26th, 2021
+:numbered!:
+:comments:
 
 Our governance structure, like any other, will evolve as it is implemented and ideally adapts to fit the personality and culture where it is being applied. Previous structures that we’ve employed have likewise sought innovations and improvements and we hope and expect this one will too. This governance structure strives to address the following goals:
 
