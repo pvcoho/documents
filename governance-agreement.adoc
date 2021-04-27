@@ -1,9 +1,11 @@
 # GOVERNANCE
 :toc:
+:toclevels: 4
 :revnumber: 2
 :revdate: April 26th, 2021
-:numbered!:
+:numbered:
 :comments:
+:obsolete!:
 
 ## Aims of our Governance System
 
@@ -24,6 +26,77 @@ ifdef::comments[NOTE: This is a slightly expanded Overview section. ]
 
 We will govern ourselves through interlinked, semi-autonomous, self-organizing circles. A *circle* is a group of people with an *aim* (a specific purpose) who work together to accomplish that purpose, including making operations and policy decisions by *consent* within their specific *domain* (area of responsibility). Consent is defined as having no argued objections which express a concern that the decision will negatively affect the circles ability to fulfill its aim.
 
+## Governance Structure
+
+### Circle Structure
+
+#### Full Circle
+
+#### General Circle
+
+#### Work Circles
+
+##### B&G (Buildings & Grounds)
+
+##### Member Services,
+
+##### Common House,
+
+##### PALS (Plants, Animals, Land Stewards)
+
+#### Work Sub-Circles
+
+#### Expanded Work Circles
+
+#### Helping Circles
+
+### Circle Member Roles
+
+#### Circle Leader
+
+#### Facilitator
+
+#### Secretary
+
+#### Logbook Keeper
+
+#### Delegate
+
+### Circle Membership
+
+### General Framework of All Circles
+
+#### Membership
+
+#### Affiliated Task Individuals
+
+#### Meeting Frequency
+
+#### Purpose (Aim)
+
+#### Area of Responsibility (Domain)
+
+#### Evaluation (Measure)
+
+#### Logbook
+
+#### Ongoing Learning
+
+## Meetings
+
+### Community Conversations
+
+### Full Circle Meetings
+
+## Decision Making Process
+
+### Input Process
+
+### Consent
+
+### Appeal Process
+
+ifdef::obsolete[]
 ## Governance Principles
 
 The governance system will be guided by the following principles adapted from Dynamic Governance.
@@ -181,3 +254,5 @@ How we will evaluate this Governance Agreement.
 * Efficiency: is the speed with which decisions & actions are taken appropriate to the decisions or actions?
 * Transparency is there easy community access to information about the decisions made by the Circle?
 * Consent decision in a Full Circle: Are there objections to continuing the experiment?
+
+endif::obsolete[]
