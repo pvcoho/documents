@@ -21,7 +21,9 @@ Our governance structure, like any other, will evolve as it is implemented and i
 
 ## Overview
 
-The organizational governance structure of Pioneer Valley Cohousing will employ interlinking Circles. A Circle is a group of people with a specific purpose (also called an aim) who work together to accomplish that purpose, including making operations and policy decisions by consent within their specific area of responsibility (also called a domain).
+ifdef::comments[NOTE: This is a slightly expanded Overview section. ]
+
+We will govern ourselves through interlinked, semi-autonomous, self-organizing circles. A *circle* is a group of people with an *aim* (a specific purpose) who work together to accomplish that purpose, including making operations and policy decisions by *consent* within their specific *domain* (area of responsibility). Consent is defined as having no argued objections which express a concern that the decision will negatively affect the circles ability to fulfill its aim.
 
 ## Governance Principles
 
