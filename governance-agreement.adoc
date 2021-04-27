@@ -30,6 +30,8 @@ The governance system of our community aims to
 
 ### Hierarchy of Inter-Linked Circles
 
+In the structure of circles, a more focused circle is double-linked to the next broader circle by the Circle leader and or more delegates of the more focused circle. For example, The Common House Circle would affirm the purpose and responsibilities of the Kitchen Circle.
+
 ### Full Circle
 
 ### Coordinating Circle
