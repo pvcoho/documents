@@ -137,19 +137,17 @@ To ensure well-run productive Circles, every Circle will have a defined membersh
 * carry out the Circle’s work in between meetings
 * make an effort to resolve interpersonal conflicts that occur within the Circle upon request of the Circle
 
-Each Circle can set additional criteria as long as they are clear and transparent and relevant to the Circle’s area of responsibility.
+. Each Circle can set additional criteria as long as they are clear and transparent and relevant to the Circle’s area of responsibility.
 
-The intention of the circle is to be inclusive and welcoming, balanced with the responsibility to respect and commit to the circle's forward progress. Therefore, new members may be asked to “get up to speed” by talking or working with a member between meetings so as not to slow down the work of the circle.
+. The intention of the circle is to be inclusive and welcoming, balanced with the responsibility to respect and commit to the circle's forward progress. Therefore, new members may be asked to “get up to speed” by talking or working with a member between meetings so as not to slow down the work of the circle.
 
-No one may be denied membership in a Circle or asked to leave a Circle on the basis of personal preferences.
+. No one may be denied membership in a Circle or asked to leave a Circle on the basis of personal preferences.
 
-If a member is having difficulty meeting the criteria, the Circle may initiate a respectful and open-minded conversation to understand what is going on for the member. If the member is not able to meet the Circle’s agreements, s/he may be asked to resign from Circle membership.
+. If a member is having difficulty meeting the criteria, the Circle may initiate a respectful and open-minded conversation to understand what is going on for the member. If the member is not able to meet the Circle’s agreements, s/he may be asked to resign from Circle membership.
 
-Non-Circle Members Attending Circle Meetings Community members are welcome to attend any Circle's meetings. Non-Circle members can always participate in a meeting's opening and closing go-rounds. Circles will reserve up to 15 minutes near the beginning of a Circle meeting to hear any community concern. The Circle may choose to invite anyone to present or comment on any topic at any time.
+*Non-Circle Members Attending Circle Meetings* Community members are welcome to attend any Circle's meetings. Non-Circle members can always participate in a meeting's opening and closing go-rounds. Circles will reserve up to 15 minutes near the beginning of a Circle meeting to hear any community concern. The Circle may choose to invite anyone to present or comment on any topic at any time.
 
-## Everyone has a Voice
-
-How Individuals influence Decisions made by a Circle (see diagram of Feedback Loops)
+## Everyone has a Voice: How Individuals influence Decisions made by a Circle (see diagram of Feedback Loops)
 
 *Both-And* The aim is to both maintain the integrity of Circles to make decisions within their area of responsibility and have appropriate community input on those decisions.
 
@@ -159,9 +157,8 @@ A question comes to a Circle -- it may decide the question, research it, survey 
 
 ### Appeal Process
 
-Any individual may appeal any decision made by any Circle. That appeal will first be heard by the Circle(s) to which the individual belongs. If that Circle agrees with the appeal, they will send selected delegates to the Circle which made the decision. These delegates will temporarily join the Circle that made the original decision for the purpose of confirming, rejecting or amending the decision in question.
-
-Alternatively, three individuals, no two from the same house, can appeal any decision to the circle that made the decision. To facilitate a timely response and avoid holding up a decision, the following process is recommended:
+* Any individual may appeal any decision made by any Circle. That appeal will first be heard by the Circle(s) to which the individual belongs. If that Circle agrees with the appeal, they will send selected delegates to the Circle which made the decision. These delegates will temporarily join the Circle that made the original decision for the purpose of confirming, rejecting or amending the decision in question.
+* Alternatively, three individuals, no two from the same house, can appeal any decision to the circle that made the decision. To facilitate a timely response and avoid holding up a decision, the following process is recommended:
 
 Those appealing will go to the circle that made the decision, in order to confirm or amend that decision (in one session); if not successful in that session, those with concerns along with circle delegates seek assistance from Care and Counsel to get resolution (within two sessions).
 
