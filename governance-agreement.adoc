@@ -120,10 +120,6 @@ ifdef::obsolete[]
 
 The governance system will be guided by the following principles adapted from Dynamic Governance.
 
-### The Principle of Circles
-
-PVCC will govern itself through semi-autonomous, self-organizing circles that are responsible for policy decisions within their area of responsibility. Each circle will be guided by input from community members using a variety of means such as Community Conversations, surveys, etc. Broader circles set and/or affirm the purpose and areas of responsibility for more focused circles. In the structure of circles, a more focused circle is double-linked to the next broader circle by the Circle leader and or more delegates of the more focused circle. For example, The Common House Circle would affirm the purpose and responsibilities of the Kitchen Circle. Circles determine their own membership. (See membership selection guidelines)
-
 ### The Principle of Consent
 
 Decisions by Circles are made by consent, including selection of people for circle membership roles, except as required by law and/or as otherwise stated in the bylaws.
@@ -137,47 +133,6 @@ Decisions by Circles are made by consent, including selection of people for circ
 ### The Principle of Continual Adaptation
 
 All policy decisions will be in effect for a defined period of time, and be evaluated at or before the end of that period of time. The policy will then be terminated, continued or revised, as appropriate, based on that evaluation.
-
-
-## Circle Member Roles
-
-Circle Leader:: The Circle leader is selected by their Circle and confirmed by the next broader circle. Their role is to oversee operations of their Circle. The Circle leader is a member of both their Circle and the next broader Circle. The leader may make time-sensitive decisions without being authorized to do so by their Circle; those decisions must be reviewed at the next Circle meeting.
-
-Facilitator:: A facilitator is selected by each circle to conduct circle meetings, provide leadership in decision- making, support listening and mutual understanding, and ensure that the circle is functioning based on the principles and methods of Dynamic Governance. The facilitator role can be rotated among members.
-
-Secretary:: Each circle selects an administrative secretary to manage the affairs of the circle and perform tasks related to its functioning: such as arranging and announcing circle meetings, preparing the agenda in consultation with other Circle members, distributing study materials and proposals, taking minutes or ensuring that minutes are taken, distributing minutes, and performing any other tasks assigned by the Circle. As the keeper of the records, the Secretary interprets policies when questions arise.
-
-Logbook Keeper:: A logbook keeper is selected by the Circle to maintain the circle logbook (see Logbook below). Depending on the size of the circle and the complexity of its work, the role of the logbook keeper may be combined with that of the Secretary.
-
-Delegate(s):: Each Circle selects one or more delegates, other than the Circle leader, to participate in the next broader circle. Delegates participate as full members in both circles. A delegate cannot be the same person as the Circle leader.
-
-With the exception of the Circle leader and the delegate(s) any member may fill more than one role, and roles may be combined.
-
-Any selected role person may appoint a substitute to cover a temporary absence or a substitute may be made by the facilitator, secretary or Circle leader.
-
-## Circle Structure
-
-The organizational structure of PVCC Governance is based on a series of interlinked Circles— illustrated below in this “flower petal” image. The circles are described in a table in the Appendix titled “General Attributes of Circles and Sub-Circles.”
-
-Full Circle:: Comprised of all community members and associate members.
-
-General Circle:: Comprised of the leaders and delegates of the four main Work Circles.
-
-Work Circles:: B&G (Buildings & Grounds), Member Services, Common House, PALS (Plants, Animals, Land Stewards)
-
-Work Sub-Circles:: Circles focused on a particular part of a Main Work Circle’s area of responsibility. For example, the Kitchen Circle is a Sub-Circle of the Common House Circle.
-
-Expanded Work Circles:: A Work Circle plus its sub-circles as well as task-specific individuals.
-
-Helping Circles:: Helping Circles research and recommend actions or policies to the Circle that created it. It can also carry out specific, short- term work assignments. For example, a Retreat Planning Circle would be a Helping Circle to the General Circle.
-
-## Expanded Work Circles
-
-Each Work Circle may have one or more Sub-Circles and/or Helping Circles, as well as individuals who do specific tasks but who is not a member of the Work Circle (for example, someone may be the bike room coordinator and connected to the Common House Circle but not participate in that Circle’s meetings).
-
-All the associated groups and individuals connected to a Circle comprise its Expanded Work Circle. For example, the Common House Expanded Work Circle includes the Kitchen Committee, Cook Teams, Ad Hoc Library committee, Guest Room scheduler, etc.
-
-Meetings may be called between and among these entities as relevant, i.e. Kitchen Committee and Cooks may meet; CH Committee may meet with all the basement coordinators to discuss new ideas for reorganizing that space, and so on. The purpose, area of responsibility, and evaluation will be determined specifically for each meeting.
 
 ## Community Gatherings
 
