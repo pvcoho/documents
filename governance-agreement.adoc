@@ -97,78 +97,9 @@ Area of Responsibility (Domain):: Policies, operations, and budget of this Circl
 
 ### Circle Membership
 
-## Decision Making
+Core members of a circle are those who carry out the responsibilities of that circle and who regularly attend meetings as set by the circle.
 
-### General Process
-
-### The Principle of Consent
-
-### Failure to Reach Consent
-
-### Appeal Process
-
-ifdef::obsolete[]
-## Governance Principles
-
-The governance system will be guided by the following principles adapted from Dynamic Governance.
-
-### The Principle of Consent
-
-Decisions by Circles are made by consent, including selection of people for circle membership roles, except as required by law and/or as otherwise stated in the bylaws.
-
-. Meetings and decision making will proceed as outlined in the Consent and Meeting Process SummaryGuide (see appendix).
-. Consent, a form of consensus, is defined as having no “argued and/or paramount objections.”
-  .. A paramount objection reflects a concern that the proposal would have a negative effect on the Circle’s work to serve its purpose. Posed another way, paramount objections need to be based on the purpose and responsibilities of a circle and not on personal preferences. For example, one community goal is to have meals available for everyone twice a week. While some may have a personal preference for having all vegetarian meals, they would not have a paramount objection to meals that include meat unless there was no vegetarian option. To welcome everyone to community meals, we might object to a meal policy that never included meat or a meal policy that did not require a vegetarian option when a meat oriented meal was served.
-  .. An argued objection means that the reasons for the objection are explained clearly enough for the Circle to collectively take responsibility for possible resolutions. For example, the Kitchen Circle is deciding a proposal to have tables of 8 instead of tables of 6. To say “I object because I like tables of 6 better” does not give the Circle a way to explore resolution. To say “I object because I find it easier to have more intimate and connected conversation in tables of 6” clarifies the underlying need and all can join in exploring strategies to meet that need.
-. Failure to Reach Consent: If after all options have been exhausted, a Circle cannot achieve consent on a proposal, the decision is referred to the next broader circle (for example from B&G Work Circle to General Circle or General Circle to Full Circle).
-
-### The Principle of Continual Adaptation
-
-All policy decisions will be in effect for a defined period of time, and be evaluated at or before the end of that period of time. The policy will then be terminated, continued or revised, as appropriate, based on that evaluation.
-
-## Community Gatherings
-
-There are two types of community gatherings: Community Conversations and Full Circle Meetings (described below). One or the other will occur monthly.
-
-### Community Conversations
-
-Community Conversations can be called by any Circle for the purpose of generating input that will help that Circle make a decision. Community Conversations are focused on exploration, dialogue and understanding and are not decision making meetings. All are welcome to attend and participate in Community Conversations.
-
-### Full Circle Meetings
-
-All residents and Associates are members of the Full Circle. Full Circle meetings are decision making meetings and will be scheduled by the General Circle as the need arises. At minimum there will be three Full Circle meetings a year - these include the annual retreat and the annual budget meeting. Other Full Circle meetings may be called by the General Circle, as needed for a major decision that meets one or more of the criteria stated under “Major Decisions,” as determined by the General Circle.
-
-**MAJOR DECISIONS** These decisions are the responsibility of the Full Circle:
-
-. Significant and permanent changes to the physical community;
-. Significant change to the governance structure;
-. Significant impact on members in terms of money, housing, and/or liability;
-. Changes to Master Deed and its amendments, Bylaws and its amendments, and agreements with the Town of Amherst;
-. Annual budget decisions and any mid-term revisions that increase the budget by more than 10%;
-. Decisions where the General Circle cannot achieve consent; and
-. Decisions of the General Circle that have been appealed by three or more individuals, no two from the same household.
-
-_Note:_ non-property owners may not object to budget decisions.
-
-## General Framework of All Circles
-
-Membership:: Core members of a circle are those who carry out the responsibilities of that circle and who regularly attend meetings as set by the circle.
-
-Affiliated Task Individuals:: There are other individuals who carry out tasks related to a particular Circle but are not core members of that circle. They are part of their relevant Expanded Work Circle.
-
-Meeting Frequency:: Circles determine their own meeting frequency.
-
-Purpose (Aim):: To meet community needs by providing community services within their area of responsibility in ways that are effective, efficient and transparent.
-
-Area of Responsibility (Domain):: Policies, operations, and budget of this Circle. Each establishes or confirms the purpose, area of responsibility and leadership selection of sub-circles. They call for Community Conversations and conduct other information gathering as needed to inform decisions that need greater input.
-
-Evaluation (Measure):: Minutes produced and posted for community access. Evaluation at conclusion of each meeting. Annual self-evaluation and by broader Circle. Periodic evaluations of specific projects according to their purposes (for example: are we achieving our intention of having 2 meals a week?).
-
-Logbook:: Each circle will create and maintain a logbook accessible to the full community that includes but is not limited to a) the circle’s purpose, policy decisions and meeting minutes; and b) any other documents that record the Circle’s activities and plans.
-
-Ongoing Learning:: Each Circle is responsible for the ongoing learning of its members in three areas: communication/interpersonal relationships, governance structure/meeting and work processes and work content (as in finances in a Finance Committee and equipment repair in Buildings & Grounds). The General Circle is responsible for community-wide skill building and education.
-
-## Criteria for Circle Membership
+There are other individuals who carry out tasks related to a particular Circle but are not core members of that circle. They are part of their relevant Expanded Work Circle.
 
 To ensure well-run productive Circles, every Circle will have a defined membership of individuals who agree to follow these best practices:
 
@@ -185,11 +116,71 @@ No one may be denied membership in a Circle or asked to leave a Circle on the ba
 
 If a member is having difficulty meeting the criteria, the Circle may initiate a respectful and open-minded conversation to understand what is going on for the member. If the member is not able to meet the Circle’s agreements, s/he may be asked to resign from Circle membership.
 
-*Non-Circle Members Attending Circle Meetings* Community members are welcome to attend any Circle's meetings. Non-Circle members can always participate in a meeting's opening and closing go-rounds. Circles will reserve up to 15 minutes near the beginning of a Circle meeting to hear any community concern. The Circle may choose to invite anyone to present or comment on any topic at any time.
+### Circle Meetings
 
-## Everyone has a Voice: How Individuals influence Decisions made by a Circle (see diagram of Feedback Loops)
+Circles determine their own meeting frequency.
 
-*Both-And* The aim is to both maintain the integrity of Circles to make decisions within their area of responsibility and have appropriate community input on those decisions.
+Non-Circle Members are welcome to attend any Circle's meetings. Non-Circle members can always participate in a meeting's opening and closing go-rounds. Circles will reserve up to 15 minutes near the beginning of a Circle meeting to hear any community concern. The Circle may choose to invite anyone to present or comment on any topic at any time.
+
+### Community Gatherings
+
+There are two types of community gatherings: Community Conversations and Full Circle Meetings (described below). One or the other will occur monthly.
+
+#### Community Conversations
+
+Community Conversations can be called by any Circle for the purpose of generating input that will help that Circle make a decision. Community Conversations are focused on exploration, dialogue and understanding and are not decision making meetings. All are welcome to attend and participate in Community Conversations.
+
+#### Full Circle Meetings
+
+All residents and Associates are members of the Full Circle. Full Circle meetings are decision making meetings and will be scheduled by the General Circle as the need arises. At minimum there will be three Full Circle meetings a year - these include the annual retreat and the annual budget meeting. Other Full Circle meetings may be called by the General Circle, as needed for a major decision that meets one or more of the criteria stated under “Major Decisions,” as determined by the General Circle.
+
+**MAJOR DECISIONS** These decisions are the responsibility of the Full Circle:
+
+. Significant and permanent changes to the physical community;
+. Significant change to the governance structure;
+. Significant impact on members in terms of money, housing, and/or liability;
+. Changes to Master Deed and its amendments, Bylaws and its amendments, and agreements with the Town of Amherst;
+. Annual budget decisions and any mid-term revisions that increase the budget by more than 10%;
+. Decisions where the General Circle cannot achieve consent; and
+. Decisions of the General Circle that have been appealed by three or more individuals, no two from the same household.
+
+_Note:_ non-property owners may not object to budget decisions.
+### Record-Keeping
+
+Each circle will create and maintain a logbook accessible to the full community that includes but is not limited to a) the circle’s purpose, policy decisions and meeting minutes; and b) any other documents that record the Circle’s activities and plans.
+
+### Evaluation
+
+All policy decisions will be in effect for a defined period of time, and be evaluated at or before the end of that period of time. The policy will then be terminated, continued or revised, as appropriate, based on that evaluation.
+
+Minutes produced and posted for community access. Evaluation at conclusion of each meeting. Annual self-evaluation and by broader Circle. Periodic evaluations of specific projects according to their purposes (for example: are we achieving our intention of having 2 meals a week?).
+
+### Ongoing Learning
+
+Each Circle is responsible for the ongoing learning of its members in three areas: communication/interpersonal relationships, governance structure/meeting and work processes and work content (as in finances in a Finance Committee and equipment repair in Buildings & Grounds). The General Circle is responsible for community-wide skill building and education.
+
+## Decision Making
+
+### General Process
+
+Meetings and decision making will proceed as outlined in the Consent and Meeting Process SummaryGuide (see appendix).
+
+### The Principle of Consent
+
+Decisions by Circles are made by consent, including selection of people for circle membership roles, except as required by law and/or as otherwise stated in the bylaws.
+
+Consent, a form of consensus, is defined as having no “argued and/or paramount objections.”
+
+. A paramount objection reflects a concern that the proposal would have a negative effect on the Circle’s work to serve its purpose. Posed another way, paramount objections need to be based on the purpose and responsibilities of a circle and not on personal preferences. For example, one community goal is to have meals available for everyone twice a week. While some may have a personal preference for having all vegetarian meals, they would not have a paramount objection to meals that include meat unless there was no vegetarian option. To welcome everyone to community meals, we might object to a meal policy that never included meat or a meal policy that did not require a vegetarian option when a meat oriented meal was served.
+. An argued objection means that the reasons for the objection are explained clearly enough for the Circle to collectively take responsibility for possible resolutions. For example, the Kitchen Circle is deciding a proposal to have tables of 8 instead of tables of 6. To say “I object because I like tables of 6 better” does not give the Circle a way to explore resolution. To say “I object because I find it easier to have more intimate and connected conversation in tables of 6” clarifies the underlying need and all can join in exploring strategies to meet that need.
+
+### Failure to Reach Consent
+
+If after all options have been exhausted, a Circle cannot achieve consent on a proposal, the decision is referred to the next broader circle (for example from B&G Work Circle to General Circle or General Circle to Full Circle).
+
+### Appeal Process
+
+ifdef::obsolete[]
 
 ### Input Process
 
