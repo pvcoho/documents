@@ -164,6 +164,8 @@ Each Circle is responsible for the ongoing learning of its members in three area
 
 Meetings and decision making will proceed as outlined in the Consent and Meeting Process SummaryGuide (see appendix).
 
+A question comes to a Circle -- it may decide the question, research it, survey community members, or send the question to another Circle for input or decision. A Circle may appoint a Helping Circle to research the question and make a recommendation. For example, the Egg Chicken Club can appoint an ad hoc “Expansion Committee” to research the issue and come back to the Club with a recommendation. A Circle can ask for time in a Community Conversation to generate more input. These Community Conversations will be held monthly (or more or less as needed) with dates predetermined annually. In addition, any individual can give input to any Circle member. Any individual can request to be heard by any Circle that they are not a member of. All Circle meeting minutes will be publicly available.
+
 ### The Principle of Consent
 
 Decisions by Circles are made by consent, including selection of people for circle membership roles, except as required by law and/or as otherwise stated in the bylaws.
@@ -176,14 +178,6 @@ Consent, a form of consensus, is defined as having no “argued and/or paramount
 ### Failure to Reach Consent
 
 If after all options have been exhausted, a Circle cannot achieve consent on a proposal, the decision is referred to the next broader circle (for example from B&G Work Circle to General Circle or General Circle to Full Circle).
-
-### Appeal Process
-
-ifdef::obsolete[]
-
-### Input Process
-
-A question comes to a Circle -- it may decide the question, research it, survey community members, or send the question to another Circle for input or decision. A Circle may appoint a Helping Circle to research the question and make a recommendation. For example, the Egg Chicken Club can appoint an ad hoc “Expansion Committee” to research the issue and come back to the Club with a recommendation. A Circle can ask for time in a Community Conversation to generate more input. These Community Conversations will be held monthly (or more or less as needed) with dates predetermined annually. In addition, any individual can give input to any Circle member. Any individual can request to be heard by any Circle that they are not a member of. All Circle meeting minutes will be publicly available.
 
 ### Appeal Process
 
@@ -210,5 +204,3 @@ How we will evaluate this Governance Agreement.
 * Efficiency: is the speed with which decisions & actions are taken appropriate to the decisions or actions?
 * Transparency is there easy community access to information about the decisions made by the Circle?
 * Consent decision in a Full Circle: Are there objections to continuing the experiment?
-
-endif::obsolete[]
