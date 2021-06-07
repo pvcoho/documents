@@ -14,6 +14,8 @@ ifdef::comments[NOTE: This is a slightly expanded Overview section. ]
 
 We will govern ourselves through interlinked, semi-autonomous, self-organizing circles. A *circle* is a group of people with an *aim* (a specific purpose) who work together to accomplish that purpose, including making operations and policy decisions by *consent* within their specific *domain* (area of responsibility). Consent is defined as having no argued objections which express a concern that the decision will negatively affect the circles ability to fulfill its aim.
 
+Our governance structure is designed to evolve through regular evaluation so it reflects our living community process.
+
 ## Aims of our Governance System
 
 ifdef::comments[NOTE: This is a shortened version of the working copy.]
@@ -33,7 +35,7 @@ The governance system of our community aims to
 
 In the structure of Circles, a more focused circle is double-linked to the next broader circle by the <<Circle Leader>> and or more <<Delegates>> of the more focused circle.
 
-TIP: The Common House Circle would affirm the purpose and responsibilities of the Kitchen Circle.
+TIP: The Community Life Circle would affirm the purpose and responsibilities of the Care & Counsel Circle.
 
 ### Full Circle
 
@@ -66,7 +68,7 @@ Comprised of the leaders and delegates of the four main Work Circles.
 
 Subcircles are Circles that are focused on a particular part of a Main Work Circle’s area of responsibility.
 
-TIP: The Kitchen Circle is a Sub-Circle of the Common House Circle.
+TIP: The Care & Counsel Circle is a Sub-Circle of the Community Life Circle.
 
 Helping Circles research and recommend actions or policies to the Circle that created it. It can also carry out specific, short-term work assignments.
 
@@ -80,11 +82,11 @@ TIP: Someone may be the bike room coordinator and connected to the Common House 
 
 All the associated groups and individuals connected to a Circle comprise its Expanded Work Circle.
 
-TIP: The Common House Expanded Work Circle includes the Kitchen Committee, Cook Teams, Ad Hoc Library committee, Guest Room scheduler, etc.
+TIP: The B&G Expanded Work Circle includes - in addition to its sub circles - the mowing team, plowing team, the cart coordinator, etc.
 
 Meetings may be called between and among these entities as relevant. The purpose, area of responsibility, and evaluation will be determined specifically for each meeting.
 
-TIP: The Kitchen Committee and Cooks may meet; CH Committee may meet with all the basement coordinators to discuss new ideas for reorganizing that space, and so on.
+TIP: CH Committee may meet with all the basement coordinators to discuss new ideas for reorganizing that space, and so on.
 
 ## Circle Member Roles
 
