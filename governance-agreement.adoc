@@ -1,8 +1,8 @@
 # GOVERNANCE
 :toc:
-:toclevels: 4
-:revnumber: 2
-:revdate: April 26th, 2021
+:toclevels: 2
+:revnumber: 1.1
+:revdate: June 7th, 2021
 :numbered:
 :comments!:
 :tip-caption: Example
