@@ -4,21 +4,16 @@
 :revnumber: 2
 :revdate: April 26th, 2021
 :numbered:
-:comments:
-:obsolete!:
+:comments!:
 :tip-caption: Example
 
 ## Overview
-
-ifdef::comments[NOTE: This is a slightly expanded Overview section. ]
 
 We will govern ourselves through interlinked, semi-autonomous, self-organizing circles. A *circle* is a group of people with an *aim* (a specific purpose) who work together to accomplish that purpose, including making operations and policy decisions by *consent* within their specific *domain* (area of responsibility). Consent is defined as having no argued objections which express a concern that the decision will negatively affect the circles ability to fulfill its aim.
 
 Our governance structure is designed to evolve through regular evaluation so it reflects our living community process.
 
 ## Aims of our Governance System
-
-ifdef::comments[NOTE: This is a shortened version of the working copy.]
 
 The governance system of our community aims to
 
