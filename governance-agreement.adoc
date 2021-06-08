@@ -4,7 +4,7 @@
 :revnumber: 2
 :revdate: April 26th, 2021
 :numbered:
-:comments!:
+:comments:
 :obsolete!:
 :tip-caption: Example
 
@@ -38,6 +38,8 @@ In the structure of Circles, a more focused circle is double-linked to the next 
 TIP: The Community Life Circle would affirm the purpose and responsibilities of the Care & Counsel Circle.
 
 ### Full Circle
+
+ifdef::comments[NOTE: This needs to be overhauled. ]
 
 Comprised of all community members and associate members.
 
