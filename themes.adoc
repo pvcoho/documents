@@ -42,5 +42,5 @@
 ## Circle Structure and Membership
 
 * Relationship between parent and child circles
-* Who sets aim?
-* Who
+* Who sets aim and domain?
+* Who determines leadership?
