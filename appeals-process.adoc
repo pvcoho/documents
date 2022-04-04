@@ -4,26 +4,16 @@
 
 (The term "policy" and "decision" are used interchangeably)
 
-The appeals process defines the conditions and steps by which an existing circle decision can be re-evaluated. The result of an appeals process can be that the decision is revoked, modified, or that it stays unmodified in place.
-
-A policy that has not be consented to (e.g. because it is still in the process of being formed) cannot be appealed. There are other ways to influence the outcome of an ongoing decision making process (e.g., participation in the circle work; raising reasoned objections).
-
-There are two types of appeals:
-
-1. an appeal based on the content of the policy, and
-2. an appeal based on the process that was used to create the policy.
-
-If the appeal is based on the content, it has to be made to the circle that the policy originated in first. If the appeal is based on the process, it has to be made to the parent circle of the circle that the policy originated in. If the appeal is based on a domain violation (in particular the domain of the Full Circle), the appeal can be made directly to this circle.
-
-The appeal has to be made in writing and needs to be supported by at least three community members from different households. It has to state
+A policy needs to be revisited before the end of the defined period of time when at least three community members from different households request it in a written statement containing
 
 * the text and consent date of the decision/policy,
-* the names of the appellants,
+* the names of the community members,
 * the circle that the decision/policy originated in,
-* type of appeal,
-* the resons for the appeal, and
+* the resons for the request, and
 * the desired outcome.
 
-The receiving circle is responsible to discuss the appeal as soon as possible. Depending on the actual appeal, it might address it in different ways. In any case, the circle must respond to the appelant stating the outcome of their discussion and the reasons that led to the outcome in a timely manner.
+The request should be made to the circle that the policy originated in. The circle must then revisit the policy and document the outcome in a timely manner.
 
-If the appellant finds that the outcome does not resolve the appeal, it can re-submit the appeal to the parent circle.
+If the requesting community members find that the outcome does not resolve the issue, they can submit the request to the parent circle or directly to the Full Circle.
+
+TIP: The reasons for the request to revisit a policy can be based on the content of the policy, or on the process that was used to create the policy.
