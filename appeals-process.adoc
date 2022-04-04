@@ -1,22 +1,19 @@
 # Appeals Process
-:!toc:
-:!revnumber: 1
-:!revdate: Feb 28th, 2022
-:numbered!:
+:numbered:
 :comments:
 
-The appeals process defines the conditions and steps by which an existing circle decision or policy can be revoked or modified. The result of an appeals process can also be that the decision or policy stays unmodified in place.
+(The term "policy" and "decision" are used interchangeably)
 
+The appeals process defines the conditions and steps by which an existing circle decision can be re-evaluated. The result of an appeals process can be that the decision is revoked, modified, or that it stays unmodified in place.
 
-
-A decision that does not yet exists (e.g. because it is still in the process of being formed) cannot be appealed. There are other ways to influence the outcome of a decision making process (e.g., participation in the circle work; raising reasoned objections).
+A policy that has not be consented to (e.g. because it is still in the process of being formed) cannot be appealed. There are other ways to influence the outcome of an ongoing decision making process (e.g., participation in the circle work; raising reasoned objections).
 
 There are two types of appeals:
 
 1. an appeal based on the content of the policy, and
 2. an appeal based on the process that was used to create the policy.
 
-If the appeal is based on the content, it has to be made to the circle that the policy originated in first. If the appeal is based on the process, it has to be made to the parent circle of the circle that the policy originated in. In case of an appeal based on the question of a domain violation (in particular the domain of the Full Circle), the appeal can be made directly to this circle.
+If the appeal is based on the content, it has to be made to the circle that the policy originated in first. If the appeal is based on the process, it has to be made to the parent circle of the circle that the policy originated in. If the appeal is based on a domain violation (in particular the domain of the Full Circle), the appeal can be made directly to this circle.
 
 The appeal has to be made in writing and needs to be supported by at least three community members from different households. It has to state
 
@@ -27,6 +24,6 @@ The appeal has to be made in writing and needs to be supported by at least three
 * the resons for the appeal, and
 * the desired outcome.
 
-The receiving circle needs to pick up and discuss the appeal as soon as possible. Depending on the actual appeal, it might address it in different ways. In any case, the circle must respond to the appelant stating the outcome of their discussion and the reasons that led to the outcome.
+The receiving circle is responsible to discuss the appeal as soon as possible. Depending on the actual appeal, it might address it in different ways. In any case, the circle must respond to the appelant stating the outcome of their discussion and the reasons that led to the outcome in a timely manner.
 
 If the appellant finds that the outcome does not resolve the appeal, it can re-submit the appeal to the parent circle.
