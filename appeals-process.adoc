@@ -1,10 +1,4 @@
-# Appeals Process
-:numbered:
-:comments:
-
-(The term "policy" and "decision" are used interchangeably)
-
-A policy needs to be revisited before the end of the defined period of time when at least three community members from different households request it in a written statement containing
+A policy must be revisited before the end of the defined period of time when at least three community members from different households request it in a written statement containing
 
 * the text and consent date of the decision/policy,
 * the names of the community members,
