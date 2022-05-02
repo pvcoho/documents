@@ -198,9 +198,11 @@ TIP: The Common House Circle is deciding a proposal to have tables of 8 instead 
 
 ### Failure to Reach Consent
 
-If after all options have been exhausted, a Circle cannot achieve consent on a proposal, the decision is referred to the next broader circle.
+If a Circle, after considerable effort, cannot achieve consent on a proposal and the proposal still has support, the decision can be referred to the next broader circle.
 
 TIP: From B&G Work Circle to Coordinating Circle or Coordinating Circle to Full Circle.
+
+As allowed in the bylaws (see Article 5, Section 6), if consensus fails after all options have been exhausted, a meeting with a quorum of at least 50% of HOA households present could have two votes: 1) to suspend consensus and 2) to decide the matter at hand, both requiring affirmation by a 75% supermajority. Quorum and voting are weighted by households according to ownership stake.
 
 ### Appeal Process
 
