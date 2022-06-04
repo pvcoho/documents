@@ -208,7 +208,7 @@ TIP: From Membership Circle to Community Life Circle to Coordinating Circle.
 
 ### Circuit Breaker
 
-If consensus fails after all options have been exhausted, a meeting with a quorum of at least 50% of HOA households present could have two votes: 1) to suspend consensus and 2) to decide the matter at hand, both requiring affirmation by a 75% supermajority. Quorum and voting are weighted by households according to ownership stake. See Bylaws, Article 5, Section 6.
+If all options to come to consent have been exhausted and the proposal still has support, a meeting with a quorum of at least 50% of HOA households present can be invoked by the Coordinating Circle. The meeting has to facilitate two votes: 1) to suspend consent and 2) to decide the matter at hand, both requiring affirmation by a 75% supermajority. Quorum and voting are weighted by households according to ownership stake. See Bylaws, Article 5, Section 6.
 
 ### Appeal Process
 
