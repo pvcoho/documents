@@ -214,15 +214,6 @@ If after all options have been exhausted, a Circle cannot achieve consent on a p
 
 TIP: From B&G Work Circle to Coordinating Circle or Coordinating Circle to Full Circle.
 
-### Appeal Process
-
-* Any individual may appeal any decision made by any Circle. That appeal will first be heard by the Circle(s) to which the individual belongs. If that Circle agrees with the appeal, they will send selected delegates to the Circle which made the decision. These delegates will temporarily join the Circle that made the original decision for the purpose of confirming, rejecting or amending the decision in question.
-* Alternatively, three individuals, no two from the same house, can appeal any decision to the circle that made the decision. To facilitate a timely response and avoid holding up a decision, the following process is recommended:
-
-Those appealing will go to the circle that made the decision, in order to confirm or amend that decision (in one session); if not successful in that session, those with concerns along with circle delegates seek assistance from Care and Counsel to get resolution (within two sessions).
-
-If that is not successful, it moves to the next broader circle.
-
 ## Evaluation / Measure
 
 How we will evaluate this Governance Agreement.
