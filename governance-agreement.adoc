@@ -168,7 +168,19 @@ All policy decisions will be in effect for a defined period of time, and be eval
 
 Minutes produced and posted for community access. Evaluation at conclusion of each meeting. Annual self-evaluation and by broader Circle. Periodic evaluations of specific projects according to their purposes.
 
-TIP: Are we achieving our intention of having 2 meals a week?.
+A policy must be revisited before the end of the defined period of time when at least three community members from different households request it in a written statement containing
+
+* the text and consent date of the decision/policy,
+* the names of the community members,
+* the circle that the decision/policy originated in,
+* the resons for the request, and
+* the desired outcome.
+
+The request should be made to the circle that the policy originated in. The circle must then revisit the policy and document the outcome in a timely manner.
+
+If the requesting community members find that the outcome does not resolve the issue, they can submit the request to the parent circle or directly to the Full Circle.
+
+TIP: The reasons for the request to revisit a policy can be based on the content of the policy, or on the process that was used to create the policy.
 
 ### Ongoing Learning
 
@@ -209,15 +221,6 @@ TIP: From Membership Circle to Community Life Circle to Coordinating Circle.
 ### Circuit Breaker
 
 If all options to come to consent have been exhausted and the proposal still has support, a meeting with a quorum of at least 50% of HOA households present can be invoked by the Coordinating Circle. The meeting has to facilitate two votes: 1) to suspend consent and 2) to decide the matter at hand, both requiring affirmation by a 75% supermajority. Quorum and voting are weighted by households according to ownership stake. See Bylaws, Article 5, Section 6.
-
-### Appeal Process
-
-* Any individual may appeal any decision made by any Circle. That appeal will first be heard by the Circle(s) to which the individual belongs. If that Circle agrees with the appeal, they will send selected delegates to the Circle which made the decision. These delegates will temporarily join the Circle that made the original decision for the purpose of confirming, rejecting or amending the decision in question.
-* Alternatively, three individuals, no two from the same house, can appeal any decision to the circle that made the decision. To facilitate a timely response and avoid holding up a decision, the following process is recommended:
-
-Those appealing will go to the circle that made the decision, in order to confirm or amend that decision (in one session); if not successful in that session, those with concerns along with circle delegates seek assistance from Care and Counsel to get resolution (within two sessions).
-
-If that is not successful, it moves to the next broader circle.
 
 ## Evaluation / Measure
 
